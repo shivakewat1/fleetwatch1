@@ -14,7 +14,7 @@ pinned: false
 ## 🔗 Links
 
 - 🤗 HF Space: https://huggingface.co/spaces/shiva0999/fleetwatch
-- 📓 Training Notebook: [COLAB LINK]
+- 📓 Training Notebook: [Open in Colab](https://colab.research.google.com/drive/1CQjy-kjDH_8Atd1piBkAVX439-AA6cD5?usp=sharing)
 - 📝 Blog: [BLOG LINK]
 
 ---
